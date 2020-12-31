@@ -4,7 +4,7 @@
         <link>https://example.com/</link>
         <description>关于 CodeIT 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>haochen2932@foxmail.com (CAUCHY2932)</managingEditor>
-            <webMaster>haochen2932@foxmail.com (CAUCHY2932)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Dec 2020 23:17:58 &#43;0800</lastBuildDate>
+            <webMaster>haochen2932@foxmail.com (CAUCHY2932)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:34:43 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Markdown 基本语法</title>
@@ -14,18 +14,18 @@
     <guid>https://example.com/basic-markdown-syntax/</guid>
     <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
 </item><item>
-    <title>Hello Sc</title>
-    <link>https://example.com/hello_sc.zh-ch/</link>
-    <pubDate>Sun, 27 Dec 2020 23:17:58 &#43;0800</pubDate>
+    <title>新年展望</title>
+    <link>https://example.com/new_year/</link>
+    <pubDate>Fri, 01 Jan 2021 00:34:43 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://example.com/hello_sc.zh-ch/</guid>
+    <guid>https://example.com/new_year/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Helo</title>
-    <link>https://example.com/helo/</link>
-    <pubDate>Sun, 27 Dec 2020 22:00:25 &#43;0800</pubDate>
+    <title>如何写一篇博客</title>
+    <link>https://example.com/how_to_write_an_artical/</link>
+    <pubDate>Thu, 31 Dec 2020 22:16:39 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://example.com/helo/</guid>
-    <description><![CDATA[hell]]></description>
+    <guid>https://example.com/how_to_write_an_artical/</guid>
+    <description><![CDATA[]]></description>
 </item></channel>
 </rss>
